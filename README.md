@@ -1,5 +1,5 @@
 
-#beta testing:
+# beta testing:
 Include your discord id above your application
 1. how active are you 
 2. do you have any experience coding or producing android applications?
@@ -10,7 +10,7 @@ Include your discord id above your application
 7. 
 keep in mind that any non-serious or troll applications will be ignored and you will be prevented from applying or making tickets in the future
 
-#moderation:
+# moderation:
 Include your discord id above your application
 1. how active are you
 2. do you have any experience moderating other servers? if so, list the servers and the approximate member count.
